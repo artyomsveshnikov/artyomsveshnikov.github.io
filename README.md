@@ -1,1 +1,0 @@
-# artyomsveshnikov.github.io
