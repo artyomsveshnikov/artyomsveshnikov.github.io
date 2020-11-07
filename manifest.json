@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Example site",
+  "name": "Example site by Artyom Sveshnikov",
   "icons": [
     {
       "src": "favicon.ico",
